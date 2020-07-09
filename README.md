@@ -46,11 +46,8 @@ Nevertheless, this section outlines things I think are important to me
 - Transparency by default.
 - I believe in rational thinking and while this may feel like it is a positive thing, in some situations it isn't so. I am less intuitive and more data driven. Working with me will also introduce you to endless ~~possibilties~~ google sheets and reports. 
 - A strong focus on the human element of working together.
-
   I tend to believe I am here to support you and have your best interests at heart. A belief that's more on the lines of: I trust you completely. Until you repeatedly prove me wrong.
-
   This describes me, imo, rather accurately within situations where I have control in decision making and when it does not clash with my obligations to the organization.
-
   I agree this gets complicated when I do have to make difficult decisions.
 - Diversity, Inclusivity and being treated equally. I call out, and I hope I continue to have the courage to call out, instances where I perceive this not to be the case.
 
@@ -61,7 +58,7 @@ opposite of what I'm saying. I acknowledge that there is always going to be a po
 
 ### Feedback
 
-This is something we are all weak at" Giving & Receiving feedback. I have this open form to enable you to send over anything that you think is relevant.
+This is something we are all weak at" Giving & Receiving feedback. I have [this open form](https://forms.gle/4uScdjj6xbaZPn7A7) to enable you to send over anything that you think is relevant.
 
 Direct 1 on 1s are personaly the best way to do this, but I sure will understand if that is not something you are comfortable with. 
 
