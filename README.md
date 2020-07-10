@@ -38,7 +38,7 @@ I do not hold traditional views regarding hierarchy, boundaries or communication
 
 Caveats: I am forgetful, if things are not organized. Therefore, if we decide to meet at a later time, do remind me to block your time OR block my time yourself if you feel like.
 
-### Values\*
+### Values<sup>\*</sup>
 
 This section is rather trite and I think no one ever flubs it. No one will ever say, "I love to micromanage" :P
 
