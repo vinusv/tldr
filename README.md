@@ -22,6 +22,7 @@ I am the Head of Development for SND Pune and local point of contact for the Glo
 I do have other responsibilities as part of the management team in SNTPS.
 
 I report to Matthias Wissel as well as James Maggs.
+
 I still code.
 
 ## My typical way of working
@@ -80,3 +81,6 @@ Direct 1 on 1s are personaly the best way to do this, but I sure will understand
 - My face keeps changing. You'll know when the seasons change.
 - [A weird ethical vegetarian](https://en.wikipedia.org/wiki/Ovo-lacto_vegetarianism) who hates eggplants and is still tempted by meat/seafood.
 - I prank people I am comfortable with.
+
+---
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
