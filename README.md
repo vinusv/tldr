@@ -32,7 +32,7 @@ I still code.
 
 I do not hold traditional views regarding hierarchy, boundaries or communication. What this implies is that regardless of whether you report to me or not, you can
 - Reach out to me.
-- Whenever you need, depending on your urgency. Regular business hours is preferred of course, but I've often been accused of responding at any hour :P
+- Whenever you need. Depending on your urgency. Regular business hours is preferred of course, but I've often been accused of responding at any hour :P
 - Through Slack, Email, Whatsapp, Phone, Tapping my shoulder, yelling across the canteen. Whatever works.
 - I generally consider myself terrible at multi-tasking in the context of meetings. 
 
