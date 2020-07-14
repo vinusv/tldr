@@ -1,5 +1,5 @@
 # Manager Readme
-Vinu Valayil | vinu.valayil@springernature.com
+Vinu Valayil
 
 ## What on earth is this abomination?
 This document is, at its very basic nature: an *About Me* for folks who directly/indirectly report to me at SN TPS.
