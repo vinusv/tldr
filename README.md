@@ -59,16 +59,16 @@ opposite of what I'm saying. I acknowledge that there is always going to be a po
 
 ### Feedback
 
-This is something we are all weak at" Giving & Receiving feedback. I have [this open form](https://forms.gle/4uScdjj6xbaZPn7A7) to enable you to send over anything that you think is relevant.
+This is something we are all weak at: Giving & Receiving feedback. I have [this open form](https://forms.gle/4uScdjj6xbaZPn7A7) to enable you to send over anything that you think is relevant.
 
-Direct 1 on 1s are personaly the best way to do this, but I sure will understand if that is not something you are comfortable with. 
+Direct 1 on 1s are personally the best way to do this, but I will surely understand if that is not something you are comfortable with. 
 
 ***
 
 ## About Me
 ### Professional
 - I have been with SN TPS since 2016 and in this role since 2018.
-- Before SN TPS I worked with  have had the opportunity to work with different technologies/frameworks/methodologies/people/cultures.
+- Before SN TPS I have had the opportunity to work with different technologies/frameworks/methodologies/people/cultures.
 
 ### Personal
 <sup>And also a tip to the topics that you can engage with me on</sup>
@@ -81,6 +81,7 @@ Direct 1 on 1s are personaly the best way to do this, but I sure will understand
 - My face keeps changing. You'll know when the seasons change.
 - [A weird ethical vegetarian](https://en.wikipedia.org/wiki/Ovo-lacto_vegetarianism) who hates eggplants and is still tempted by meat/seafood.
 - I prank people I am comfortable with.
+- I laugh at the silliest things.
 
 ---
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
