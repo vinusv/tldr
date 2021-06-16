@@ -83,5 +83,9 @@ Direct 1 on 1s are personally the best way to do this, but I will surely underst
 - I prank people I am comfortable with.
 - I laugh at the silliest things.
 
+### Mind Map | tl;dr
+Just in case you wanted an illustration instead of a wall of text.
+<img src="https://github.com/vinusv/tldr/blob/master/mindmap.jpg?raw=true" alt="A personal mind map" longdesc="A bunch of things that describe me. Covers the things I love, my job, quirky stuff about me, how I view myself etc" />
+
 ---
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
