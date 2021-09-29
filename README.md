@@ -73,9 +73,10 @@ Direct 1 on 1s are personally the best way to do this, but I will surely underst
 
 ### Personal
 <sup>And also a tip to the topics that you can engage with me on</sup>
-- I am multilingual and I still love learning new languages which has progressively declined with age :P. I'm pretty much fluent in English, Hindi, Marathi & Malayalam. I learned German in school and I've fallen in love with Spanish for now.
+- I am multilingual and I still love learning new languages which has progressively declined with age :P. I'm pretty much fluent in English, Hindi, Marathi & Malayalam. I learned German in school and I've fallen in love with Spanish for now. I am also a beginner at Indian Sign Language and I am hoping to be fluent in it.
 - I'm an amateur photographer, marathoner and artist and I love playing football/chess.
 - I grew up poor and have had a difficult childhood in terms of struggles, albeit a happy one. I grew up (and am still) surrounded with strong women who inspired me and a hell lot of books. A lot of my values and the way I work/behave are shaped by my background.
+- Recently realized, I still love academia. Still gives me the occassional jitters, but I love academia :)
 
 ### Quirky shit that you need to be aware of
 - I tend to have a pronounced accent when speaking to people who are not Indian in origin. It will sound hilarious. Do not laugh (I feel bad inside :P)
