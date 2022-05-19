@@ -19,12 +19,11 @@ It is hopefully not
 - A static document that will never be updated.
 
 ## What is my role?
-I am the Head of Development for SND Pune and local point of contact for the Global SND department. I also represent this department/division in my role as part of the SN TPS Management Team. My job description in the context of SND [is present here](https://drive.google.com/file/d/1vf5beGvCd6gKhCa2B-4f9aedAJJHhDqt/).
-I do have other responsibilities as part of the management team in SNTPS.
+I am the Head of Engineering for FullContact India and part of the Indian Leadership Team. My job description in the context of FullContact [will be put up here](https://media.giphy.com/media/VwoJkTfZAUBSU/giphy.gif). Be patient ;)
 
-I report to Matthias Wissel as well as James Maggs.
+I report to Ken Michie.
 
-I still code.
+I still code. Not production level though. Just random things that can be automated in an ugly fashion.
 
 ## My typical way of working
 
@@ -60,7 +59,7 @@ opposite of what I'm saying. I acknowledge that there is always going to be a po
 
 ### Feedback
 
-This is something we are all weak at: Giving & Receiving feedback. I have [this open form](https://forms.gle/4uScdjj6xbaZPn7A7) to enable you to send over anything that you think is relevant.
+This is something we are all weak at: Giving & Receiving feedback. I have [this open form](https://forms.gle/9KcGAkqcth2bu3Yx7) to enable you to send over anything that you think is relevant.
 
 Direct 1 on 1s are personally the best way to do this, but I will surely understand if that is not something you are comfortable with. 
 
@@ -68,8 +67,8 @@ Direct 1 on 1s are personally the best way to do this, but I will surely underst
 
 ## About Me
 ### Professional
-- I have been with SN TPS since 2016 and in this role since 2018.
-- Before SN TPS I have had the opportunity to work with different technologies/frameworks/methodologies/people/cultures.
+- I have been worked with Cognizant, ADP and Springer Nature prior to being part of FullContact.
+- Before FullContact I have had the opportunity to work with different technologies/frameworks/methodologies/people/cultures.
 
 ### Personal
 <sup>And also a tip to the topics that you can engage with me on</sup>
@@ -84,9 +83,10 @@ Direct 1 on 1s are personally the best way to do this, but I will surely underst
 - [A weird ethical vegetarian](https://en.wikipedia.org/wiki/Ovo-lacto_vegetarianism) who hates eggplants and is still tempted by meat/seafood.
 - I prank people I am comfortable with.
 - I laugh at the silliest things.
+- I love painting my nails.
 
 ### Mind Map | tl;dr
-Just in case you wanted an illustration instead of a wall of text.
+Just in case you wanted an illustration instead of a wall of text. (To be updated)
 <img src="https://github.com/vinusv/tldr/blob/master/mindmap.jpg?raw=true" alt="A personal mind map" longdesc="A bunch of things that describe me. Covers the things I love, my job, quirky stuff about me, how I view myself etc" />
 
 ---
