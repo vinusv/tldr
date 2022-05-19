@@ -3,7 +3,7 @@
 he/him/his. <sup>[more information why](https://assets2.hrc.org/files/assets/resources/TalkingAboutPronouns_onesheet_FINAL.pdf)</sup>
 
 ## What on earth is this abomination?
-This document is, at its very basic nature: an *About Me* for folks who directly/indirectly report to me at SN TPS.
+This document is, at its very basic nature: an *About Me* for folks who directly/indirectly report to me wherever I work.
 
 Seems narcissistic? I agree. However that is truly not the intent. In these times, with our remote setups, I hope this provides you a useful context.
 
