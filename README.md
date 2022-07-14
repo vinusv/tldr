@@ -19,7 +19,7 @@ It is hopefully not
 - A static document that will never be updated.
 
 ## What is my role?
-I am the Head of Engineering for FullContact India and part of the Indian Leadership Team. My job description in the context of FullContact [is here](https://drive.google.com/file/d/1w96h8OK2vhY5BJjca3m0sUoI1cUFegj4/view). Be patient ;)
+I am the Head of Engineering for FullContact India and part of the Indian Leadership Team. My job description in the context of FullContact [is here](https://drive.google.com/file/d/1w96h8OK2vhY5BJjca3m0sUoI1cUFegj4/view).
 
 I report to Ken Michie.
 
